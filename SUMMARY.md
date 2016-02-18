@@ -1,5 +1,5 @@
 # Summary
 
-* [Preface](README.md)
-   * [What You Should Already Know](previousskills.md)
-   * [Code examples](codeexamples.md)
+* [Preface](preface/preface.md)
+   * [What You Should Already Know](preface/previousskills.md)
+   * [Code examples](preface/codeexamples.md)
