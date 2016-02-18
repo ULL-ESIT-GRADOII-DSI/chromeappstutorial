@@ -2,10 +2,11 @@
   "structure": {
        "readme": "preface.md"
    },
-    "plugins": ["katex", "quiz", "quizzes" , "asciitree", "ace", "exercises", "youtube"],
-    "pluginsConfig": {
-        "asciitree": {
-            "leadingChar": "no need, because plugin will guess leadingChar."
-        }
+  "plugins": ["katex", "quiz", "quizzes" , "asciitree", "ace", "exercises", "youtube"],
+  "pluginsConfig": {
+    "asciitree": {
+      "leadingChar": "no need, because plugin will guess leadingChar."
     }
+  },
+  "pdf": { "pageNumbers": true }
 }
